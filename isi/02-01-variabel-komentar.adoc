@@ -1,4 +1,4 @@
 == Variabel dan Komentar (wip)
 
 === Tentang Bab Ini (wip)
-
+Bab ini menjelaskan tentang definisi variable, mutabilitas, dan sekilas tentang mekanisme peminjaman.
